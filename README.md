@@ -4,4 +4,6 @@ I didn't reach for the synonyms, or the nice to have.
 
 The code is messed and there are still bugs, also refactor is a must after doing it right.
 
+Like the original proyect, npm install in root, and then npm start.
+
 This was an interesting exercise, I actually enjoyed it. Thank you!
