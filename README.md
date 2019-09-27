@@ -1,14 +1,7 @@
-# Simple text editor
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+I got this far in 2hs.
 
-## Initial setup
-Run `npm install` in order to setup application
+I didn't reach for the synonyms, or the nice to have.
 
-## Development server
-Run `npm start` for a dev server.
+The code is messed and there are still bugs, also refactor is a must after doing it right.
 
-## Notes
-+ Text sample is given in `text.service.js`
-+ Given files structure is not obligatory and could be changed
-
-
+This was an interesting exercise, I actually enjoyed it. Thank you!

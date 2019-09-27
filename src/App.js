@@ -5,11 +5,7 @@ import FileZone from "./file-zone/FileZone";
 import getMockText from './text.service';
 
 class App extends Component {
-    getText() {
-        getMockText().then(function (result) {
-            console.log(result);
-        });
-    }
+
     render() {
         return (
             <div className="App">
@@ -17,8 +13,7 @@ class App extends Component {
                     <span>Simple Text Editor</span>
                 </header>
                 <main>
-                    <ControlPanel/>
-                    <FileZone/>
+                    <FileZone />
                 </main>
             </div>
         );

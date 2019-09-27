@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './ControlPanel.css';
 
 class ControlPanel extends Component {
+
     render() {
         return (
             <div id="control-panel">
